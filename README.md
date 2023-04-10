@@ -14,6 +14,24 @@ Criar testes unitários para métodos utilizando:<BR>
 - Criar Script no terraform em qualquer provedor que crie apenas uma máquina virtual de qualquer formato. Esse script deve possuir 1 arquivo main, um arquivo de variáveis e um arquivo de outputs.
 - Criar um pipeline de build do seu projeto no Gitlab.
 
+Prints
+--
+<h1>Prometheus</h1>
+<img alt="prometheus"  src="./prometheus.png" />
+
+<h1>Grafana</h1>
+<img alt="grafana"  src="./grafana.png" />
+
+<h1>Zipkin</h1>
+<img alt="grafana"  src="./zipkin1.png" />
+<img alt="grafana"  src="./zipkin2.png" />
+
+<h1>Papertrail</h1>
+<img alt="papertrail"  src="./papertrail.png" />
+
+<h1>Testes</h1>
+<img alt="testes"  src="./testes.png" />
+
 
 Instruções para executar o projeto
 --
